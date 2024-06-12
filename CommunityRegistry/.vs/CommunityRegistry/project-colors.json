@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7d5d706a-5fef-4a76-887a-313daca84318": {
+      "ProjectGuid": "7d5d706a-5fef-4a76-887a-313daca84318",
+      "DisplayName": "CommunityRegistry",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "6377d450-8d62-471d-8c3a-eb63f79d47b0": {
+      "ProjectGuid": "6377d450-8d62-471d-8c3a-eb63f79d47b0",
+      "DisplayName": "AuthenticatorAPI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
